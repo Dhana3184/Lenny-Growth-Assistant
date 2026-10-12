@@ -14,3 +14,5 @@ build/
 
 *.db
 *.sqlite3
+
+data/chroma_db/
